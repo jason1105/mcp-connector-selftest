@@ -1,1 +1,1 @@
-hello from mcp connector selftest
+hello from mcp connector selftest (updated)
